@@ -1,4 +1,4 @@
-fitteens ID,dx code,dx name,ICD,Flag,ICDString,Phecode,PhecodeString,PhecodeCategory,domain,cluster_x,cluster_y
+fitteens ID,dx code,dx name,ICD,Flag,ICDString,Phecode,PhecodeString,PhecodeCategory,domain,cluster_x,cluster
 10113,B34.9,Pharyngitis with viral syndrome,B34.9,10.0,"Viral infection, unspecified",79.9,"Viremia, NOS",infectious diseases,infectious,0,2
 10113,B34.9,"Viral infection, unspecified",B34.9,10.0,"Viral infection, unspecified",79.9,"Viremia, NOS",infectious diseases,infectious,0,2
 10113,B97.89,Viral respiratory infection,B97.89,10.0,Other viral agents as the cause of diseases classified elsewhere,79.0,Viral infection,infectious diseases,infectious,0,2
